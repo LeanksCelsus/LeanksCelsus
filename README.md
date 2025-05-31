@@ -53,8 +53,8 @@
 
 ## 📌 Projets à découvrir
 
-➡️ Projet 1 – Une courte description de ce projet innovant  
-➡️ Projet 2 – Un autre exemple de mes compétences techniques
+➡️ Ascend – Équipe de développeurs, modélisateurs, mappeurs & designers basés sur **Garry's Mod** proposant des prestations aux professionnels/particuliers.
+➡️ ??? - Projet secret...
 
 ---
 
